@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #mysql
-ubuntu
+#ubuntu
+nigelpoulton/pluralsight-docker-ci:latest
